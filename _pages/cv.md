@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## Education
 * B.Sc. in Electrical Engineering, **Sharif University of Technology**, 2017
