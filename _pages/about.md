@@ -20,11 +20,13 @@ Having completed undergraduate studies in computer sciences & electrical enginee
 - Network science
 - Algorithms
 - Machine learning
+- Data mining
 
 ### Application:
 
 - Network neuroscience
-- Computational psychiatry
+- Whole-brain connectomics
+- Computational neuropsychiatry
 - Normative brain connectivity
 - Behavior/age prediction models
 - High-resolution Connectomics
