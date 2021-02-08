@@ -2,10 +2,10 @@
 title: "Functional dedifferentiation of the brain during healthy aging"
 collection: publications
 permalink: /publication/2020-03-30-paper-title-number-2
-excerpt: 'A NeuroForum article providing insights on the functional connectivity changes associated with healthy aging.'
+excerpt: "A NeuroForum article providing insights on the functional connectivity changes associated with healthy aging."
 date: 2020-03-30
-venue: 'Journal of neurophysiology'
-paperurl: 'https://doi.org/10.1152/jn.00039.2020'
+venue: "Journal of neurophysiology"
+paperurl: https://doi.org/10.1152/jn.00039.2020
 citation: 'Rakesh, Divyangana, Kavisha B. Fernando, and Sina Mansour L. &quot;Functional dedifferentiation of the brain during healthy aging.&quot; <i>Journal of neurophysiology</i> 123.4 (2020): 1279-1282.
 ---
 
