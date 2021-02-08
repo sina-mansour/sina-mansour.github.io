@@ -35,6 +35,7 @@ redirect_from:
 * 2015--2017: Full stack web developer; [Maktabkhooneh](http://maktabkhooneh.org/) (part time)
   
 ## Awards
+* 2019: Best poster presentation and graphical abstract, SOBR 2019 student symposium
 * 2018: Melbourne Research Scholarship for postgraduate research
 * 2017: 2nd among participants in nationwide graduate university entrance exam for masters degree in computer sciences
 * 23rd in the IEEEXtreme 9.0 worldwide programming contest as a member of team CoDeFX (3rd
