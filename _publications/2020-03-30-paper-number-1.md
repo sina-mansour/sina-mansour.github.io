@@ -1,7 +1,7 @@
 ---
 title: "Functional dedifferentiation of the brain during healthy aging"
 collection: publications
-permalink: /publication/2020-03-30-paper-number-1
+permalink: /publication/2020-03-30-paper-title-number-1
 excerpt: 'A NeuroForum article providing insights on the functional connectivity changes associated with healthy aging.'
 date: 2020-03-30
 venue: 'Journal of neurophysiology'
