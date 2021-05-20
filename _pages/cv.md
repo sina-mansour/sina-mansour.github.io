@@ -14,18 +14,8 @@ redirect_from:
 * B.Sc. in Computer Sciences, **Sharif University of Technology**, 2017
 * Ph.D in Biomedical Engineering, **The University of Melbourne**, 2022 (expected)
   
-## Skills
-* Programming:
-    * Python
-    * bash
-    * C/C++
-    * Matlab
-    * Javascript
-* Git
-* Latex
-* Web development
-  
 ## Other experiences
+* 2020--2021: Chair; [IEEE student branch at The University of Melbourne](https://edu.ieee.org/au-unimelb/)
 * 2020: Traintrack tutor; [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/)
 * 2020: Victorian Section Ambassador; [IEEEXtreme](https://ieeextreme.org/) 14.0 Programming competition
 * 2019--2020: Vice-chair; [IEEE student branch at The University of Melbourne](https://edu.ieee.org/au-unimelb/)
@@ -35,7 +25,9 @@ redirect_from:
 * 2015--2017: Full stack web developer; [Maktabkhooneh](http://maktabkhooneh.org/) (part time)
   
 ## Awards
+* 2020: Awarded the [Student Engagement Grant](https://provost.unimelb.edu.au/awards-grants-initiatives/student_engagement_grants_program) (SEG) 2020 as part of the IEEE student branch University of Melbourne (In collaboration with Dr. Nandakishor Desai, Amount funded: $4,200). This grant partly supported the IEEE Unlock Xtreme 14.0 workshop series.
 * 2019: Best poster presentation and graphical abstract, SOBR 2019 student symposium
+* 2019: Awarded a GSA grant to support the Programming for Neuroimaging Data Analysis (PNDA) workshop series under [SONR](https://gsa.unimelb.edu.au/grad-group/students-of-neuropsychiatry-research-sonr/) (In collaboration with D. Rakesh, Amount funded: $200)
 * 2018: Melbourne Research Scholarship for postgraduate research
 * 2017: 2nd among participants in nationwide graduate university entrance exam for masters degree in computer sciences
 * 23rd in the IEEEXtreme 9.0 worldwide programming contest as a member of team CoDeFX (3rd
@@ -60,3 +52,14 @@ mathematical sciences
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+## Skills
+* Programming:
+    * Python
+    * bash
+    * C/C++
+    * Matlab
+    * Javascript
+* Git
+* Latex
+* Web development
