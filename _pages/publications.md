@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
  -->
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=GVoC568AAAAJ&hl=en&oi=ao).
+You can find the most up-to-date list of publications on [my Google Scholar profile](https://scholar.google.com/citations?user=GVoC568AAAAJ&hl=en&oi=ao).
 
 {% include base_path %}
 

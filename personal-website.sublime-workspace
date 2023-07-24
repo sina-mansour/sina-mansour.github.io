@@ -1,0 +1,3034 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inclu",
+				"inclusivity"
+			],
+			[
+				"edge",
+				"edges\tparam"
+			],
+			[
+				"la",
+				"labels\tstatement"
+			],
+			[
+				"last",
+				"labelset\tstatement"
+			],
+			[
+				"val",
+				"valid_labels\tstatement"
+			],
+			[
+				"tck",
+				"tck_file"
+			],
+			[
+				"ne",
+				"neighbor_rule"
+			],
+			[
+				"col",
+				"colormap"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"ran",
+				"range\tfunction"
+			],
+			[
+				"ind",
+				"index_offset"
+			],
+			[
+				"ci",
+				"cifti_to_surface\tstatement"
+			],
+			[
+				"surf",
+				"surface\tparam"
+			],
+			[
+				"lef",
+				"left_cortical_surface"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"map",
+				"map_name\tstatement"
+			],
+			[
+				"con",
+				"connectivity\tstatement"
+			],
+			[
+				"mask",
+				"mask_radius\tstatement"
+			],
+			[
+				"get_",
+				"get_structural_connectivity_map_from_spherical_mask\tfunction"
+			],
+			[
+				"gd",
+				"generate_dscalar_image\tfunction"
+			],
+			[
+				"gescal",
+				"get_sample_cifti_dscalar\tfunction"
+			],
+			[
+				"pr",
+				"print_log\tfunction"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"su",
+				"subject"
+			],
+			[
+				"cop",
+				"copy_dir\tstatement"
+			],
+			[
+				"get_a",
+				"get_atlas_label_names\tfunction"
+			],
+			[
+				"del",
+				"delimiter\tparam"
+			],
+			[
+				"sa",
+				"savetxt\tfunction"
+			],
+			[
+				"wri",
+				"write_np\tfunction"
+			],
+			[
+				"R",
+				"REST1_LR"
+			],
+			[
+				"tim",
+				"time_series\tparam"
+			],
+			[
+				"suco",
+				"subcortex"
+			],
+			[
+				"S",
+				"SUBJECTS_HCP_Retest\tstatement"
+			],
+			[
+				"fi",
+				"file_exists\tfunction"
+			],
+			[
+				"fw",
+				"fwhms\tstatement"
+			],
+			[
+				"fils",
+				"files_exist\tfunction"
+			],
+			[
+				"do",
+				"dot"
+			],
+			[
+				"sim",
+				"similarity\tstatement"
+			],
+			[
+				"a",
+				"argv\tinstance"
+			],
+			[
+				"non_parametric_ps",
+				"non_parametric_p_corrs\tstatement"
+			],
+			[
+				"nul",
+				"null_rhos\tstatement"
+			],
+			[
+				"no",
+				"non_parametric_ps\tstatement"
+			],
+			[
+				"datal",
+				"data_l2"
+			],
+			[
+				"dart",
+				"data_r2"
+			],
+			[
+				"data_",
+				"data_concatenated\tstatement"
+			],
+			[
+				"nan",
+				"nan\tstatement"
+			],
+			[
+				"me",
+				"method\tparam"
+			],
+			[
+				"nov",
+				"normalize_vector\tfunction"
+			],
+			[
+				"verte",
+				"vertex-based"
+			],
+			[
+				"tc",
+				"tck_file"
+			],
+			[
+				"arg",
+				"args\tstatement"
+			],
+			[
+				"parcel",
+				"parcellation"
+			],
+			[
+				"at",
+				"atlas\tparam"
+			],
+			[
+				"T",
+				"True\tinstance"
+			],
+			[
+				"ts",
+				"ts1"
+			],
+			[
+				"fun",
+				"functional"
+			],
+			[
+				"te",
+				"testID\tstatement"
+			],
+			[
+				"summ",
+				"summarization"
+			],
+			[
+				"test",
+				"test_test"
+			],
+			[
+				"retl",
+				"retestList\tstatement"
+			],
+			[
+				"fe",
+				"feature"
+			],
+			[
+				"si",
+				"sim"
+			],
+			[
+				"with",
+				"within"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fea",
+				"feature"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"inv",
+				"invI\tstatement"
+			],
+			[
+				"pa",
+				"parcellate_timeseries_using_atlas\tfunction"
+			],
+			[
+				"H",
+				"HCP_Retest"
+			],
+			[
+				"en",
+				"ensure_dir\tfunction"
+			],
+			[
+				"lo",
+				"print_log\tfunction"
+			],
+			[
+				"j",
+				"join_path\tfunction"
+			],
+			[
+				"Np",
+				"NP_OUT_PATH\tstatement"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"dis",
+				"distutils\tmodule"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"spa",
+				"sparse"
+			],
+			[
+				"an",
+				"analysis"
+			],
+			[
+				"nif",
+				"nifti"
+			],
+			[
+				"thre",
+				"threshold"
+			],
+			[
+				"com",
+				"compute_connectivity_correlation_only"
+			],
+			[
+				"ti",
+				"time_it"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"jo",
+				"join_path"
+			],
+			[
+				"suffil",
+				"surface_file"
+			],
+			[
+				"be",
+				"between"
+			],
+			[
+				"da",
+				"datasets"
+			],
+			[
+				"s",
+				"subject"
+			],
+			[
+				"sub",
+				"subjects"
+			],
+			[
+				"all",
+				"all_subjects"
+			],
+			[
+				"str",
+				"streamlines"
+			],
+			[
+				"Cre",
+				"Creating"
+			],
+			[
+				"ru",
+				"Running"
+			],
+			[
+				"d",
+				"dhollander"
+			],
+			[
+				"dow",
+				"download_path"
+			],
+			[
+				"st",
+				"store_path"
+			],
+			[
+				"ou",
+				"out_path"
+			],
+			[
+				"u",
+				"unzip"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_pages/cv.md",
+			"settings":
+			{
+				"buffer_size": 3410,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIUAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "##"
+					},
+					"AgAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIgAAAAAAAAAiAAAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcAAAAAAAAAhwAAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "The"
+					},
+					"AwAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					3,
+					"left_delete",
+					null,
+					"AwAAAIkAAAAAAAAAiQAAAAAAAAABAAAAZYgAAAAAAAAAiAAAAAAAAAABAAAAaIcAAAAAAAAAhwAAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "The"
+					},
+					"AwAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " updated"
+					},
+					"CAAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAACPAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJIAAAAAAAAAkwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "pdf"
+					},
+					"AwAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJMAAAAAAAAAkwAAAAAAAAADAAAAcGRm",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAAJMAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "V"
+					},
+					"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJUAAAAAAAAAlgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "can"
+					},
+					"AwAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					4,
+					"left_delete",
+					null,
+					"BAAAAJkAAAAAAAAAmQAAAAAAAAABAAAAIJgAAAAAAAAAmAAAAAAAAAABAAAAbpcAAAAAAAAAlwAAAAAAAAABAAAAYZYAAAAAAAAAlgAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "is"
+					},
+					"AgAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": " available"
+					},
+					"CgAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAACdAAAAAAAAAJ4AAAAAAAAAAAAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " as"
+					},
+					"AwAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": " P"
+					},
+					"AgAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "D"
+					},
+					"AQAAAKkAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "F"
+					},
+					"AQAAAKoAAAAAAAAAqwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "coc"
+					},
+					"AwAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					3,
+					"left_delete",
+					null,
+					"AwAAAK4AAAAAAAAArgAAAAAAAAABAAAAY60AAAAAAAAArQAAAAAAAAABAAAAb6wAAAAAAAAArAAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "co"
+					},
+					"AgAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK0AAAAAAAAArQAAAAAAAAABAAAAb6wAAAAAAAAArAAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAArgAAAAAAAACuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "doucu"
+					},
+					"BQAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "ment."
+					},
+					"BQAAALEAAAAAAAAAsgAAAAAAAAAAAAAAsgAAAAAAAACzAAAAAAAAAAAAAACzAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[${0:$SELECTION}]"
+					},
+					"AgAAAKgAAAAAAAAAqAAAAAAAAAANAAAAUERGIGRvdWN1bWVudKgAAAAAAAAAtwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"right_delete",
+					null,
+					"AQAAAIsAAAAAAAAAiwAAAAAAAAAIAAAAdXBkYXRlZCA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": " also"
+					},
+					"BQAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": "("
+					},
+					"AQAAALQAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAALUAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAALUAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"paste",
+					null,
+					"AQAAALYAAAAAAAAAGgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"right_delete",
+					null,
+					"AQAAALYAAAAAAAAAtgAAAAAAAABEAAAAL2hvbWUvc2luYS9Eb2N1bWVudHMvUmVzZWFyY2gvQ29kZXMvd2Vic2l0ZXMvc2luYS1tYW5zb3VyLmdpdGh1Yi5pby8",
+					"AQAAAAAAAAABAAAA+gAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"paste",
+					null,
+					"AQAAALQAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"paste",
+					null,
+					"AQAAAKYAAAAAAAAApwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKcAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					143,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gAAAAAAAADqAAAAAAAAAAAAAAAAIHNA"
+				],
+				[
+					151,
+					1,
+					"paste",
+					null,
+					"AQAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACwGAAAAAAAALQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAYAAAAAAAAsBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"paste",
+					null,
+					"AQAAAC0GAAAAAAAALgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQYAAAAAAAAtBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					169,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOwBAAAAAAAA7QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AEAAAAAAADsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"paste",
+					null,
+					"AQAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QEAAAAAAADtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHALAAAAAAAAcQsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAsAAAAAAABwCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"paste",
+					null,
+					"AQAAAHELAAAAAAAAcwsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQsAAAAAAABxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					188,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPQLAAAAAAAA9QsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AsAAAAAAAD0CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"paste",
+					null,
+					"AQAAAPULAAAAAAAA9gsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QsAAAAAAAD1CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					198,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGoMAAAAAAAAawwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagwAAAAAAABqDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"paste",
+					null,
+					"AQAAAGsMAAAAAAAAbAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawwAAAAAAABrDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					209,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGsMAAAAAAAAawwAAAAAAAAEAAAA8J+Pqw",
+					"AQAAAAAAAAABAAAAbAwAAAAAAABsDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"paste",
+					null,
+					"AQAAAOwAAAAAAAAA7wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"cut",
+					null,
+					"AQAAAOsAAAAAAAAA6wAAAAAAAAAEAAAA8J+Okw",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					228,
+					1,
+					"paste",
+					null,
+					"AQAAAG0MAAAAAAAAbgwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQwAAAAAAABtDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAN4MAAAAAAAA3wwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gwAAAAAAADeDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"paste",
+					null,
+					"AQAAAN8MAAAAAAAA4AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wwAAAAAAADfDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					243,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8MAAAAAAAA3wwAAAAAAAAEAAAA8J+noA",
+					"AQAAAAAAAAABAAAA4AwAAAAAAADgDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"paste",
+					null,
+					"AQAAAN8MAAAAAAAA4AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wwAAAAAAADfDAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_talks/2020-08-08-poster-6.md",
+			"settings":
+			{
+				"buffer_size": 1200,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AgAAAKUAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADEAAAAAAAAAGIAAAAyOXRoIEFubnVhbCBDb21wdXRhdGlvbmFsIE5ldXJvc2NpZW5jZSBNZWV0aW5nLCBPcmdhbml6YXRpb24gZm9yIENvbXB1dGF0aW9uYWwgTmV1cm9zY2llbmNlIChPQ05TKQ",
+					"HAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAApQAAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 3263,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "_config.yml",
+			"redo_stack":
+			[
+				[
+					81,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAL8CAAAAAAAAvwIAAAAAAAACAAAAIyA",
+					"AQAAAAAAAAABAAAAFwMAAAAAAAAXAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAGgCAAAAAAAAagIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgIAAAAAAAC+AgAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 8564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AQAAAFQhAAAAAAAAcyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAciEAAAAAAAByIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAHMhAAAAAAAAcyEAAAAAAAACAAAAIyA",
+					"AQAAAAAAAAABAAAAkSEAAAAAAACRIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "minima"
+					},
+					"BwAAAHohAAAAAAAAeyEAAAAAAAAAAAAAeyEAAAAAAAB7IQAAAAAAABUAAABqZWt5bGwtdGhlbWUtbWlkbmlnaHR7IQAAAAAAAHwhAAAAAAAAAAAAAHwhAAAAAAAAfSEAAAAAAAAAAAAAfSEAAAAAAAB+IQAAAAAAAAAAAAB+IQAAAAAAAH8hAAAAAAAAAAAAAH8hAAAAAAAAgCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjyEAAAAAAAB6IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"cut",
+					null,
+					"AQAAAHMhAAAAAAAAcyEAAAAAAAAOAAAAdGhlbWU6IG1pbmltYQo",
+					"AQAAAAAAAAABAAAAgCEAAAAAAACAIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAGgCAAAAAAAAagIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwIAAAAAAACPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAO0CAAAAAAAA7QIAAAAAAAACAAAAIyA",
+					"AQAAAAAAAAABAAAAFgMAAAAAAAAWAwAAAAAAAAAAAAAAEHdA"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "is"
+					},
+					"AwAAAKECAAAAAAAAogIAAAAAAAAAAAAAogIAAAAAAACiAgAAAAAAAEsAAABlIGJhc2UgaG9zdG5hbWUgJiBwcm90b2NvbCBmb3IgeW91ciBzaXRlIGUuZy4gImh0dHBzOi8vbW1pc3Rha2VzLmdpdGh1Yi5pbyKiAgAAAAAAAKMCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQIAAAAAAADsAgAAAAAAAP///////+9/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " is"
+					},
+					"AwAAAKMCAAAAAAAApAIAAAAAAAAAAAAApAIAAAAAAAClAgAAAAAAAAAAAAClAgAAAAAAAKYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowIAAAAAAACjAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " used"
+					},
+					"BQAAAKYCAAAAAAAApwIAAAAAAAAAAAAApwIAAAAAAACoAgAAAAAAAAAAAACoAgAAAAAAAKkCAAAAAAAAAAAAAKkCAAAAAAAAqgIAAAAAAAAAAAAAqgIAAAAAAACrAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgIAAAAAAACmAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " for"
+					},
+					"BAAAAKsCAAAAAAAArAIAAAAAAAAAAAAArAIAAAAAAACtAgAAAAAAAAAAAACtAgAAAAAAAK4CAAAAAAAAAAAAAK4CAAAAAAAArwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwIAAAAAAACrAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAK8CAAAAAAAAsAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwIAAAAAAACvAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "deve"
+					},
+					"BAAAALACAAAAAAAAsQIAAAAAAAAAAAAAsQIAAAAAAACyAgAAAAAAAAAAAACyAgAAAAAAALMCAAAAAAAAAAAAALMCAAAAAAAAtAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAIAAAAAAACwAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "lopment"
+					},
+					"BwAAALQCAAAAAAAAtQIAAAAAAAAAAAAAtQIAAAAAAAC2AgAAAAAAAAAAAAC2AgAAAAAAALcCAAAAAAAAAAAAALcCAAAAAAAAuAIAAAAAAAAAAAAAuAIAAAAAAAC5AgAAAAAAAAAAAAC5AgAAAAAAALoCAAAAAAAAAAAAALoCAAAAAAAAuwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAIAAAAAAAC0AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": " porpu"
+					},
+					"BgAAALsCAAAAAAAAvAIAAAAAAAAAAAAAvAIAAAAAAAC9AgAAAAAAAAAAAAC9AgAAAAAAAL4CAAAAAAAAAAAAAL4CAAAAAAAAvwIAAAAAAAAAAAAAvwIAAAAAAADAAgAAAAAAAAAAAADAAgAAAAAAAMECAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwIAAAAAAAC7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "se"
+					},
+					"AgAAAMECAAAAAAAAwgIAAAAAAAAAAAAAwgIAAAAAAADDAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQIAAAAAAADBAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					7,
+					"left_delete",
+					null,
+					"BwAAAMICAAAAAAAAwgIAAAAAAAABAAAAZcECAAAAAAAAwQIAAAAAAAABAAAAc8ACAAAAAAAAwAIAAAAAAAABAAAAdb8CAAAAAAAAvwIAAAAAAAABAAAAcL4CAAAAAAAAvgIAAAAAAAABAAAAcr0CAAAAAAAAvQIAAAAAAAABAAAAb7wCAAAAAAAAvAIAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAAwwIAAAAAAADDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAALsCAAAAAAAAuwIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAvAIAAAAAAAC8AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": " only"
+					},
+					"BQAAALsCAAAAAAAAvAIAAAAAAAAAAAAAvAIAAAAAAAC9AgAAAAAAAAAAAAC9AgAAAAAAAL4CAAAAAAAAAAAAAL4CAAAAAAAAvwIAAAAAAAAAAAAAvwIAAAAAAADAAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwIAAAAAAAC7AgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Searching 273 files for \"theme\" (regex)\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_config.yml:\n  313      envs: development\n  314  \n  315: # add a Jekyll theme:\n  316: theme: jekyll-theme-cayman\n  317: # theme: jekyll-theme-midnight\n  318  \n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/CHANGELOG.md:\n  199  \n  200  - Add background color to page footer to set it apart from main content. [#342](https://github.com/mmistakes/minimal-mistakes/issues/342)\n  201: - Add terms and privacy policy to theme's demo site. [#343](https://github.com/mmistakes/minimal-mistakes/issues/343)\n  202: - Update screenshots found in theme documentation.\n  203  \n  204  ## [3.2.3](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.3)\n  ...\n  316  ### Enhancements\n  317  \n  318: - Rebuilt the entire theme: layouts, includes, stylesheets, scripts, you name it.\n  319: - Refreshed the look and feel while staying true to the original design of the theme (author sidebar/main content).\n  320  - Replaced grid system with [Susy](http://susy.oddbird.net/).\n  321  - Replaced Grunt tasks with `npm` scripts.\n  322  - Removed Google Fonts and replaced with system fonts to improve performance (they can be [added back](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/) if desired)\n  323: - Greatly improved [theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).\n  324: - Increased the amount of sample posts, sample pages, and sample collections to throughly test the theme and edge-cases.\n  325  - Moved all sample content and assets out of `master` to keep it as clean as possible for forking.\n  326  - Added new layouts for `splash` pages, archives for [`jekyll-archives`](https://github.com/jekyll/jekyll-archives) if enabled, and [`compress.html`](https://github.com/penibelst/jekyll-compress-html) to improve performance.\n  ...\n  331  - Added Keybase.io, author web URI, and Bitbucket optional links to sidebar.\n  332  - Add `feed.xml` link to footer.\n  333: - Added a [UI text data file](https://mmistakes.github.io/minimal-mistakes/docs/ui-text/) to easily change all text found in the theme.\n  334  - Added LinkedIn to optional social share buttons.\n  335  - Added Facebook, Google+, and custom commenting options in addition to Disqus.\n  ...\n  343  \n  344  - Add support for Jekyll 3.0\n  345: - Minor updates to syntax highlighting CSS and theme documentation\n  346  \n  347  ## [2.1.3](https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.3)\n  ...\n  417  ### Bug Fixes\n  418  \n  419: - Corrected various broken links in README and Theme Setup.\n  420  \n  421  ## [1.3.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/1.3.1)\n  ...\n  469  ### Enhancements\n  470  \n  471: - Added [image attribution](http://mmistakes.github.io/minimal-mistakes/theme-setup/#feature-images) for post and page feature images.\n  472  - Added [404 page](http://mmistakes.github.io/minimal-mistakes/404.html).\n  473: - Cleaned up various Less variables to better align with naming conventions used in other MM Jekyll themes.\n  474  - Removed Chrome Frame references.\n  475  - Added global CSS3 transitions to text and block elements.\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/Gemfile.lock:\n   51        jekyll-redirect-from (= 0.16.0)\n   52        jekyll-relative-links (= 0.6.1)\n   53:       jekyll-remote-theme (= 0.4.2)\n   54        jekyll-sass-converter (= 1.5.2)\n   55        jekyll-seo-tag (= 2.7.1)\n   56        jekyll-sitemap (= 1.4.0)\n   57        jekyll-swiss (= 1.0.0)\n   58:       jekyll-theme-architect (= 0.1.1)\n   59:       jekyll-theme-cayman (= 0.1.1)\n   60:       jekyll-theme-dinky (= 0.1.1)\n   61:       jekyll-theme-hacker (= 0.1.2)\n   62:       jekyll-theme-leap-day (= 0.1.1)\n   63:       jekyll-theme-merlot (= 0.1.1)\n   64:       jekyll-theme-midnight (= 0.1.1)\n   65:       jekyll-theme-minimal (= 0.1.1)\n   66:       jekyll-theme-modernist (= 0.1.1)\n   67:       jekyll-theme-primer (= 0.5.4)\n   68:       jekyll-theme-slate (= 0.1.1)\n   69:       jekyll-theme-tactile (= 0.1.1)\n   70:       jekyll-theme-time-machine (= 0.1.1)\n   71        jekyll-titles-from-headings (= 0.5.3)\n   72        jemoji (= 0.12.0)\n   ..\n  140      jekyll-relative-links (0.6.1)\n  141        jekyll (>= 3.3, < 5.0)\n  142:     jekyll-remote-theme (0.4.2)\n  143        addressable (~> 2.0)\n  144        jekyll (>= 3.5, < 5.0)\n  ...\n  152        jekyll (>= 3.7, < 5.0)\n  153      jekyll-swiss (1.0.0)\n  154:     jekyll-theme-architect (0.1.1)\n  155        jekyll (~> 3.5)\n  156        jekyll-seo-tag (~> 2.0)\n  157:     jekyll-theme-cayman (0.1.1)\n  158        jekyll (~> 3.5)\n  159        jekyll-seo-tag (~> 2.0)\n  160:     jekyll-theme-dinky (0.1.1)\n  161        jekyll (~> 3.5)\n  162        jekyll-seo-tag (~> 2.0)\n  163:     jekyll-theme-hacker (0.1.2)\n  164        jekyll (> 3.5, < 5.0)\n  165        jekyll-seo-tag (~> 2.0)\n  166:     jekyll-theme-leap-day (0.1.1)\n  167        jekyll (~> 3.5)\n  168        jekyll-seo-tag (~> 2.0)\n  169:     jekyll-theme-merlot (0.1.1)\n  170        jekyll (~> 3.5)\n  171        jekyll-seo-tag (~> 2.0)\n  172:     jekyll-theme-midnight (0.1.1)\n  173        jekyll (~> 3.5)\n  174        jekyll-seo-tag (~> 2.0)\n  175:     jekyll-theme-minimal (0.1.1)\n  176        jekyll (~> 3.5)\n  177        jekyll-seo-tag (~> 2.0)\n  178:     jekyll-theme-modernist (0.1.1)\n  179        jekyll (~> 3.5)\n  180        jekyll-seo-tag (~> 2.0)\n  181:     jekyll-theme-primer (0.5.4)\n  182        jekyll (> 3.5, < 5.0)\n  183        jekyll-github-metadata (~> 2.9)\n  184        jekyll-seo-tag (~> 2.0)\n  185:     jekyll-theme-slate (0.1.1)\n  186        jekyll (~> 3.5)\n  187        jekyll-seo-tag (~> 2.0)\n  188:     jekyll-theme-tactile (0.1.1)\n  189        jekyll (~> 3.5)\n  190        jekyll-seo-tag (~> 2.0)\n  191:     jekyll-theme-time-machine (0.1.1)\n  192        jekyll (~> 3.5)\n  193        jekyll-seo-tag (~> 2.0)\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/package.json:\n    2    \"name\": \"minimal-mistakes\",\n    3    \"version\": \"3.4.2\",\n    4:   \"description\": \"Minimal Mistakes Jekyll theme npm build scripts\",\n    5    \"repository\": {\n    6      \"type\": \"git\",\n    .\n    9    \"keywords\": [\n   10      \"jekyll\",\n   11:     \"theme\",\n   12      \"minimal\"\n   13    ],\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/README.md:\n    1: A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.\n    2  \n    3: I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.\n    4  \n    5  ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. \n    .\n   27  # Changelog -- bugfixes and enhancements\n   28  \n   29: There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. \n   30  \n   31  To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_includes/footer.html:\n   22  </div>\n   23  \n   24: <div class=\"page__footer-copyright\">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: \"Powered by\" }} <a href=\"http://jekyllrb.com\" rel=\"nofollow\">Jekyll</a> &amp; <a href=\"https://github.com/academicpages/academicpages.github.io\">AcademicPages</a>, a fork of <a href=\"https://mademistakes.com/work/minimal-mistakes-jekyll-theme/\" rel=\"nofollow\">Minimal Mistakes</a>.\n   25  Edited by Sina Mansour L.\n   26  </div>\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_includes/head/custom.html:\n   22  <meta name=\"msapplication-TileImage\" content=\"{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ\">\n   23  <meta name=\"msapplication-config\" content=\"{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ\">\n   24: <meta name=\"theme-color\" content=\"#ffffff\">\n   25  <link rel=\"stylesheet\" href=\"{{ base_path }}/assets/css/academicons.css\"/>\n   26  \n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_pages/archive-layout-with-content.md:\n    5  ---\n    6  \n    7: A variety of common markup showing how the theme styles them.\n    8  \n    9  # Header one\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_sass/vendor/font-awesome/_icons.scss:\n   12  .#{$fa-css-prefix}-adn:before { content: fa-content($fa-var-adn); }\n   13  .#{$fa-css-prefix}-adversal:before { content: fa-content($fa-var-adversal); }\n   14: .#{$fa-css-prefix}-affiliatetheme:before { content: fa-content($fa-var-affiliatetheme); }\n   15  .#{$fa-css-prefix}-air-freshener:before { content: fa-content($fa-var-air-freshener); }\n   16  .#{$fa-css-prefix}-algolia:before { content: fa-content($fa-var-algolia); }\n   ..\n 1087  .#{$fa-css-prefix}-the-red-yeti:before { content: fa-content($fa-var-the-red-yeti); }\n 1088  .#{$fa-css-prefix}-theater-masks:before { content: fa-content($fa-var-theater-masks); }\n 1089: .#{$fa-css-prefix}-themeco:before { content: fa-content($fa-var-themeco); }\n 1090: .#{$fa-css-prefix}-themeisle:before { content: fa-content($fa-var-themeisle); }\n 1091  .#{$fa-css-prefix}-thermometer:before { content: fa-content($fa-var-thermometer); }\n 1092  .#{$fa-css-prefix}-thermometer-empty:before { content: fa-content($fa-var-thermometer-empty); }\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_sass/vendor/font-awesome/_shims.scss:\n 1858  }\n 1859  \n 1860: .#{$fa-css-prefix}.#{$fa-css-prefix}-themeisle {\n 1861    font-family: 'Font Awesome 5 Brands';\n 1862    font-weight: 400;\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_sass/vendor/font-awesome/_variables.scss:\n   26  $fa-var-adn: \\f170;\n   27  $fa-var-adversal: \\f36a;\n   28: $fa-var-affiliatetheme: \\f36b;\n   29  $fa-var-air-freshener: \\f5d0;\n   30  $fa-var-algolia: \\f36c;\n   ..\n 1101  $fa-var-the-red-yeti: \\f69d;\n 1102  $fa-var-theater-masks: \\f630;\n 1103: $fa-var-themeco: \\f5c6;\n 1104: $fa-var-themeisle: \\f2b2;\n 1105  $fa-var-thermometer: \\f491;\n 1106  $fa-var-thermometer-empty: \\f2cb;\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/assets/css/main.scss:\n    3  \n    4  /*\n    5:  *    Minimal Mistakes Jekyll Theme\n    6   *\n    7   *  - Michael Rose\n\n/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/assets/fonts/fa-brands-400.svg:\n   28        unicode=\"&#xF36A;\"\n   29        horiz-adv-x=\"512\" d=\" M482.1 416H28.7C5.8 416 0 410.1 0 387.1V-3.1C0 -26.4 5.8 -32 28.7 -32H482.1C506.4999999999999 -32 511.9999999999999 -26.8 511.9999999999999 -2.3V385.8C511.9999999999999 410.4 506.6 416 482.1 416zM178.4 227.7C150.9 247.9 106.3 236.4 94.2 204.3C89.9 193.2 84.9 194.8 76.7 196C67 197.5 59.5 199.2 54.2 201.5C25.4 212.9 62.8 256.8 79.1 265.8C120.2 287.2 162.5 288 204.4 270.6C245.3 253.8 238.9 211.4 238.9 142.1C241.6 116.3 234.6 83.8 248.2 53.3C250.1 48.9 248.6 45.4 245.5 42.6C237.1 35.9 206.2 40.4 198.9 49.9999999999999C197 52.1999999999999 197.1 53.6 195 56.1999999999999C191.4 60.0999999999999 187.7 58.3999999999999 183.1 55.1999999999999C125.7 18.8 42.8 33.8 36.1 98.4999999999999C33 127.8 48.5 155.6 75.7 169.5C113.9 189 187.9 181.3 189.7 200.4C190.8 210.5999999999999 187.8 220.5 178.4 227.7zM465.1 5.7C465.1 -9.4 454 -4.2 447.3 -4.2H52.4C45 -4.2 34.2 -9 34.6 6.5C35 20.4 45.1 15.6 51.7 15.6C184 16 316.2 16 448.5 15.6C455.3 15.6 465.1 20 465.1 5.7zM468.9 346.2V55.2C468.9 49.5 468.2 41.3 460.8 41.3C448.4000000000001 41.7 433.3 34.2 424.7 46.9C418.9 55.6 416.9 50.9 412.3 48.1C358.9000000000001 18.4 284.2000000000001 41 267.9 133.3C261.8 166.7 267.2 200.4 283.6 233.3C295.4 257.2000000000001 340.5 309.4 419.7 263.8V334.8C419.7 361 419.5999999999999 361 445.7 361C448.8 361 452.3 360.6 455.3999999999999 361C465.4999999999999 361.8 468.9999999999999 356.6 468.9999999999999 346.7000000000001C468.8999999999999 346.5 468.8999999999999 346.4000000000001 468.8999999999999 346.2000000000001zM417.4000000000001 113.9C397.9000000000001 66.3 344.5 70.6 327.4000000000001 108.7C312.3 142 311.9000000000001 176.9 327.8 210.2C344.1 244.3 387.5 245.9 409.3 215C429.9000000000001 186.2 424.2 130.4 417.4000000000001 113.9zM122.6 78.6C115.1 79.9 89.6 81.9 88.9 106.4C88.5 120.3 96.7 129.4 108.7 132.2C133.1 138.1 158 142.1 182.4 146.9C191.3000000000001 148.9 189.8000000000001 142.5 190.2000000000001 137.4C191.6000000000001 104.4 164.1000000000001 78.2 122.6000000000001 78.6z\" />\n   30:     <glyph glyph-name=\"affiliatetheme\"\n   31        unicode=\"&#xF36B;\"\n   32        horiz-adv-x=\"512\" d=\" M159.7 210.6C108.4 139.7 43.1 99.8 14 121.4C-15.2 143.1 2.8 218 54.2 288.9C105.5 359.8 170.8 399.7 199.9 378.1C229 356.5 211 281.5 159.7 210.6zM510.9 267.9C437.1 144.5 319 80.2 246.4 124.3C221.4 139.5 205.1 165.5 197.4 198.1C163.8 133.3 104.6 84.3 33.3 64.9C83.1 5.6 157.4 -32 240.3 -32C390.3 -32 511.9 91.1 511.9 242.9C512 251.4 511.6 259.7 510.9 267.9z\" />\n   ..\n 1003        unicode=\"&#xF69D;\"\n 1004        horiz-adv-x=\"505.07\" d=\" M484.41 206.26L505.0700000000001 199.13C495.51 223.04 481.14 236.09 473.35 243.89L480.48 262.09C480.73 262.09 492.76 289.88 478.02 292.83C477.39 304.18 471.4300000000001 319.88 459.58 319.88C451.96 330.45 441.8700000000001 332.18 428.8400000000001 325.78C419.99 321.6 411.1300000000001 315.7 403.5100000000001 309.3C398.2100000000001 315.74 400.5600000000001 308.92 400.5600000000001 339.06C363.4800000000001 363.3400000000001 355.1600000000001 350.79 325.8000000000001 336.11L326.2900000000001 335.62C305.1400000000001 343.24 282.2700000000001 347.67 257.9300000000001 348.9000000000001C252.3800000000001 357.61 239.3300000000001 368 232.8500000000001 373.98L257.6900000000001 366.85C252.2000000000001 372.3400000000001 230.9100000000001 379.76 223.5100000000001 382.1C241.7100000000001 386.2100000000001 253.2900000000001 402.87 266.0500000000001 415.05C231.1300000000001 425.13 198.1800000000001 420.9500000000001 168.1700000000001 403.25L179.97 447.52L178.24 448C146.64 423.84 145.25 406.1 144.55 402.51C143.64 404.9 138.23 422.12 129.3 429.56C125.86 420.71 125.86 412.35 128.81 404.23C131.76 395.87 134.71 389.4700000000001 137.17 385.29C121.13 388.5900000000001 108.82 390.19 87.99 385.29H84.3L117.25 371.03C96.59 351.6 81.35 329.2200000000001 70.53 303.65L68.81 295.29L70.53 293.5700000000001L78.15 298.24C74.82 286.6 72.88 278.85 71.51 272.42C60.2 259.63 51.1 246.35 43.72 232.0900000000001C28.75 231.0900000000001 11.9 221.31 3.39 217.8300000000001L6.34 214.3900000000001L35.11 213.4100000000001C34.62 212.4300000000001 34.37 211.2000000000001 33.88 210.2100000000001C26.59 203.8300000000001 -5.9 172.5600000000001 0.93 129.5500000000001L21.1 151.9300000000001C21.59 150.21 21.84 148.4900000000001 22.33 146.7700000000001C22.33 121.24 22.7 57.1300000000001 87.25 -3.73C131.03 -43.83 183.41 -63.9999999999999 244.89 -63.9999999999999C366.62 -63.9999999999999 467.94 23.2900000000001 467.94 147.4900000000001C474.74 157.2100000000001 466.7 144.4600000000001 484.66 172.5700000000001L497.6899999999999 158.3100000000001L500.1499999999999 158.8000000000001C498.4299999999999 170.1100000000001 495.4799999999999 181.1800000000001 491.2999999999999 192.9800000000001C489.0799999999999 199.3800000000001 486.6199999999999 203.3100000000001 484.4099999999999 206.2600000000001zM468.92 247.58L454.66 259.38L472.86 260.61L468.92 247.58zM394.1600000000001 336.85L393.67 314.96C399.19 296.83 410.55 297.75 416.05 297.75L412.61 302.42L434.99 307.83C424.9100000000001 307.3399999999999 416.05 307.3399999999999 407.94 307.83C420.75 309.9599999999999 441.26 336.86 450.98 319.14C454.42 311.52 457.37 301.93 460.32 291.35L462.04 297.25C460.81 301.43 460.32 306.59 460.32 312.5C465.73 312.01 469.17 309.06 469.66 302.42C470.15 296.03 471.38 287.66 473.1 277.09L477.77 288.4C482.36 288.4 482.24 292.01 475.31 267.74C454.42 276.44 440.2200000000001 276.1 428.83 276.1L447.03 292.08C421.75 283.93 414 281.28 392.19 271.18C391.11 276.5899999999999 387.2099999999999 284.68 376.2099999999999 291.1C373.0299999999999 287.28 373.45 290.2 375.4699999999999 276.34H373.01C371.7799999999999 284.7 368.83 292.32 364.6499999999999 299.46L368.83 302.9C377.19 310.03 380.63 317.16 379.3999999999999 324.79C378.9099999999999 331.18 373.9899999999999 338.32 365.87 345.45C371.53 348.65 381.12 345.7 394.16 336.85zM354.5700000000001 346.93C357.2600000000001 345.01 365.9700000000001 341.55 373.5100000000001 329.72C377.7100000000001 321.32 377.4900000000001 319.91 376.9500000000001 318.65C376.4700000000001 316.24 376.4900000000001 314.32 374.0000000000001 311.52C372.2800000000001 309.06 368.5900000000001 306.85 362.2000000000001 303.9C354.5800000000001 316.93 345.7200000000001 327.51 334.4100000000001 335.13L354.5700000000001 346.93zM87.25 304.88L88.48 306.6C89.71 309.55 92.66 314.2200000000001 97.82 321.85L100.28 325.29L87.25 312.99L92.66 317.66L82.58 308.32L78.4 307.09C90.7 331.19 101.52 348.4 110.86 357.26C120.2 366.6 126.84 373.24 131.03 376.69L124.64 375.46C113.33 379.64 105.21 382.59 99.8 383.82C102.26 384.31 103.49 384.31 103 384.31C113.33 384.31 120.46 383.82 123.9 383.08C129.31 381.36 134.47 380.62 139.88 380.62L140.37 382.34L132.0100000000001 418.24L145.5400000000001 389.22C147.2600000000001 391.68 149.7200000000001 396.35 151.4400000000001 403.48C153.1600000000001 409.87 156.8500000000001 416.51 161.5200000000001 422.91C166.1900000000001 429.3 169.1400000000001 433.48 170.8600000000001 434.22C167.9100000000001 425.37 166.1900000000001 417.01 164.4700000000001 408.89L162.7500000000001 401.76L162.2600000000001 397.09L164.7200000000001 394.63C186.6100000000001 408.16 210.2100000000001 414.06 236.0400000000001 413.57L257.1900000000001 413.08C245.3900000000001 399.55 229.4000000000001 391.19 208.7400000000001 388.24C200.1300000000001 386.76 192.5100000000001 385.78 185.3800000000001 385.29L185.1300000000001 385.78L182.6700000000001 387.01C177.5100000000001 387.99 172.8300000000001 387.26 168.65 385.04C166.19 385.29 163.7300000000001 385.53 161.5200000000001 385.78L159.06 384.06L159.5500000000001 382.83C161.5200000000001 382.58 163.4800000000001 382.34 165.7000000000001 382.09L163.7300000000001 378.65L167.1700000000001 379.14L156.6000000000001 367.83C152.4200000000001 364.88 151.1900000000001 361.44 152.4200000000001 358.49L157.8300000000001 361.93H159.06C165.45 370.29 174.31 375.46 184.3900000000001 377.18V380.13C190.78 379.64 197.4200000000001 379.15 203.8200000000001 378.9C210.21 378.9 212.1800000000001 378.41 209.2300000000001 377.67C216.8500000000001 373.49 223.4900000000001 368.82 229.8900000000001 364.14C243.4200000000001 354.06 253.5000000000001 342.25 259.8900000000001 328.73C268.7400000000001 310.53 273.42 291.6 273.42 272.17C273.42 262.0899999999999 272.19 252.74 270.4700000000001 243.89C268.12 233.1 262.67 214.27 254.4900000000001 197.9L256.9500000000001 197.41C275.1800000000001 217.0799999999999 298.85 213.3899999999999 306.1300000000001 213.3899999999999L299.7400000000001 207.4899999999999L322.1200000000001 189.7799999999999L320.4000000000001 159.0399999999999C314.99 171.3399999999999 303.92 180.1899999999999 287.4500000000001 186.8299999999999C303.9300000000001 172.0699999999999 311.0600000000001 165.68 309.3400000000001 166.6599999999999C304.5300000000001 169.4699999999999 305.8100000000001 168.5299999999999 298.5200000000001 170.3499999999999C302.6400000000001 166.2299999999999 315.9700000000001 151.5599999999999 316.7200000000001 149.6899999999999L316.9700000000001 149.4399999999999L316.7200000000001 149.1899999999999C316.7200000000001 147.4299999999999 318.2800000000001 150.3699999999999 302.7000000000001 126.3199999999999C227.5500000000001 141.6299999999999 196.4400000000001 169.0599999999999 161.5400000000001 189.5199999999999L173.3400000000001 188.2899999999999C161.5900000000001 206.8199999999999 157.7100000000001 206.0099999999999 134.9800000000001 214.3599999999999L145.5500000000001 222.7199999999999C136.7000000000001 225.6699999999999 127.3500000000001 225.6699999999999 117.2700000000001 222.2299999999999L124.8900000000001 232.7999999999999L123.6600000000001 234.5199999999999C108.7700000000001 230.1799999999999 103.8100000000001 225.3499999999999 101.0400000000001 223.2099999999998C99.9000000000001 228.6699999999999 98.2700000000001 235.6499999999999 88.7400000000001 251.9799999999999L87.5100000000001 224.9299999999998L73.9800000000001 230.3399999999999C75.4500000000001 255.4499999999998 79.3800000000001 280.7799999999999 87.2500000000001 304.8799999999998zM363.6600000000001 -25.15C313.74 -50.11 307.5300000000001 -47.56 304.6400000000001 -49C274.8800000000001 -37.2 253.7400000000001 -17.28 241.1900000000001 9.77L271.1900000000001 -6.71C261.4200000000001 2.6 252.8500000000001 9.83 232.8300000000001 37.5599999999999L244.6300000000001 14.4399999999999L226.9200000000001 22.0599999999999C241.1200000000001 0.98 250.3900000000001 -29.6800000000001 293.5600000000001 -51.47C172.7900000000001 -75.62 94.5300000000001 20.64 92.6500000000001 22.8C103.9600000000001 13.46 115.7700000000001 5.09 128.0600000000001 -2.04C131.5000000000001 -3.76 135.1900000000001 -4.5 138.1400000000001 -3.27L122.1600000000001 17.39C131.3900000000001 13.2 131.6500000000001 12.89 191.2600000000001 -11.63C148.7200000000001 9.03 117.4800000000001 29.19 98.0600000000001 48.62C97.5700000000001 42.23 96.83 38.54 96.83 38.54C105.68 30.92 112.8100000000001 22.06 117.4900000000001 11.98C78.44 30.83 59.9 59.59 46.17 94.61C96.0600000000001 39.51 165.0200000000001 57.12 166.6700000000001 57.48C201.46 41.05 236.5400000000001 33.87 280.5300000000001 46.91C283.85 46.91 300.8300000000001 29.93 305.86 7.81L310.04 10.76L307.5800000000001 34.37C316.5300000000001 25.42 332.48 11.81 342.0100000000001 21.34C326.4300000000001 26.66 318.4900000000001 30.83 312.5000000000001 53.0600000000001C317.0800000000001 48.8600000000001 320.0700000000001 44.0100000000001 340.2900000000001 38.0600000000001L341.5200000000001 39.2900000000001L330.9500000000001 53.5500000000001C342.6000000000001 58.4000000000001 327.4100000000001 52.5400000000001 362.9200000000001 64.3700000000001C367.2600000000001 30.14 371.9700000000001 15.2200000000001 363.6600000000001 -25.1499999999999zM479 189.29L476.54 188.8L479.49 179.46C475.94 173.59 455.76 135.2000000000001 407.93 99.78C368.39 70.02 331.35 60.65 327.02 59.4500000000001L319.4 66.58L318.17 63.6300000000001L332.43 47.65L325.3 52.3200000000001L328.74 48.14H327.51L305.62 61.67L314.9599999999999 35.11L296.0199999999999 62.9L294.7899999999999 60.4400000000001L302.4099999999999 31.4200000000001C296.2999999999999 39.6600000000001 281.3799999999999 64.0300000000001 245.5999999999999 71.0100000000001L278.0599999999999 49.8600000000001C246.0899999999999 45.1900000000001 214.8599999999999 47.4000000000002 184.8599999999999 56.2500000000001C180.6799999999999 57.4800000000001 176.0099999999999 58.7100000000001 171.3299999999999 60.4300000000001L172.5599999999999 63.3800000000001L127.7999999999999 85.7600000000001L153.8699999999999 63.3800000000001C96.2099999999999 54.3000000000001 40.9099999999999 88.7900000000001 27.4699999999999 146.7500000000001L25.0099999999999 163.2300000000001L2.6599999999999 140.8500000000001C22.1299999999999 198.3600000000001 28.2699999999999 198.7400000000001 54.0599999999999 210.9400000000002C44.9699999999999 216.2700000000002 52.5099999999999 214.2000000000001 15.6999999999999 220.2800000000002C31.4799999999999 226.0700000000002 48.7499999999999 235.7200000000002 88.7399999999999 215.1200000000002C91.6899999999999 216.6000000000001 90.8799999999999 216.2200000000002 92.4299999999999 216.8400000000002C93.0699999999999 220.0200000000002 92.8399999999999 217.6600000000002 93.4099999999999 228.6400000000002C97.2999999999999 218.6300000000002 97.0399999999999 219.9700000000002 96.3599999999999 219.3000000000002L98.0799999999999 218.8100000000002C110.7699999999999 225.3000000000002 106.9999999999999 223.3300000000002 115.0499999999999 227.6600000000002L109.6399999999999 214.1300000000002L132.0199999999999 220.0300000000002L123.6599999999999 211.6700000000001L126.1199999999999 209.2100000000001C130.6199999999999 211.0100000000001 156.4699999999999 205.7900000000001 166.9399999999999 193.2300000000001L143.3299999999999 195.6900000000002C182.7199999999999 172.7100000000002 194.7899999999999 141.7200000000002 199.1499999999999 126.1000000000001L200.8699999999999 127.3300000000002C198.0299999999999 149.6100000000001 188.4999999999999 161.2100000000002 184.8899999999999 167.4100000000002C189.1099999999999 162.4200000000001 224.0899999999999 132.8500000000001 295.3099999999999 121.4200000000001C283.9999999999999 121.9100000000002 272.1899999999999 116.0100000000001 260.3899999999999 102.4800000000001L307.1099999999999 122.6500000000002L297.7699999999999 100.7600000000002C305.39 110.8400000000002 312.5299999999999 124.3700000000002 318.9199999999999 140.3500000000001V140.8400000000002L320.1499999999999 143.7900000000001L318.9199999999999 127.8100000000001C332.4499999999999 169.6200000000001 344.2499999999999 206.2600000000001 354.33 237.4900000000001L367.8599999999999 265.2800000000001V267.2500000000001L362.4499999999999 271.4300000000001H372.5299999999999L378.4299999999999 267.2500000000001L380.8899999999998 268.4800000000002L377.4499999999998 284.4600000000001L389.7499999999999 265.5200000000001L431.5599999999999 285.6900000000001L416.7999999999999 272.6600000000001L417.2899999999999 269.7100000000002L434.9999999999999 270.2000000000002C446.3099999999999 269.7100000000002 456.8899999999998 268.4800000000002 467.9499999999998 266.0200000000001L444.3399999999998 263.5600000000001L443.1099999999998 260.6100000000002L469.6699999999998 237.4900000000001C479.7499999999998 227.4100000000001 488.6099999999998 216.8300000000001 496.7199999999998 205.5200000000001C485.4799999999998 208.8100000000001 486.4399999999998 208.9600000000001 475.5699999999998 208.9600000000001L487.8699999999998 176.5000000000001L478.9999999999998 189.2900000000001zM201.11 278.3200000000001C166.26 263.9000000000001 166.38 264.3400000000001 164.96 264.0600000000001C144.13 259.3300000000001 145.99 288.5 146.02 288.9000000000001L151.92 290.13L151.43 292.5900000000001C131.26 295.24 120.4 288.4200000000001 118.97 287.6700000000001C119.46 287.1800000000001 121.92 284.23 124.87 278.3300000000001C129.05 284.7200000000001 133.72 288.4100000000001 140.12 288.9000000000001C138.4 277.5900000000001 138.89 266.5200000000001 141.84 255.2100000000001C141.91 254.7000000000001 144.41 237.7700000000001 169.38 231.1100000000001C180.69 228.1600000000001 196.43 229.8800000000001 218.32 236.5200000000001L208.98 236.0300000000001C204.8 250.79 202.59 260.87 203.08 265.54C214.39 274.39 224.97 276.85 233.82 273.1600000000001H236.28L224.48 280.7800000000001L217.35 280.29C211.45 279.0600000000001 205.05 276.11 197.92 271.93L201.11 278.32zM212.18 365.13L209.72 364.6400000000001L210.21 361.6900000000001C218.57 362.18 227.42 360.4600000000001 236.28 355.79C233.78 361.3300000000001 226.31 370.05 208 370.05L208.49 367.5900000000001L212.18 365.1300000000001zM145.04 309.0600000000001C141 315.4100000000001 141.95 314.11 140.37 315.7000000000001C162.06 298.9400000000001 156.85 294.29 186.85 292.0900000000001L183.9 296.76C192.75 304.38 197.43 313.9700000000001 198.66 325.04C200.38 341.0200000000001 197.43 354.55 189.81 366.35L202.84 373.9700000000001C202.84 374.4600000000001 202.84 375.2000000000001 202.35 375.6900000000001C197.68 377.4100000000001 193.01 376.92 188.82 373.9700000000001C176.14 367.3 160.83 353.0300000000001 159.8 351.5900000000001C158.08 349.87 156.36 345.6900000000001 154.39 338.0600000000001C152.67 330.9300000000001 151.44 323.3 151.44 314.4500000000001C146.76 322.4100000000001 140.92 320.85 131.5200000000001 320.35L138.65 312.73C122.18 312.73 115.3300000000001 297.3000000000001 115.04 296.7500000000001C121.85 296.7600000000001 119.64 304.35 145.04 309.0600000000001zM159.06 334.3900000000001C160.29 342.0100000000001 162.5 347.42 165.45 351.6C170.86 357.99 176.02 361.68 181.43 363.4000000000001C185.61 365.12 188.56 362.17 191.51 354.06C193.97 346.44 194.95 337.5800000000001 194.46 328.73C193.97 319.39 191.02 311.52 186.1 305.61C183.15 302.17 180.69 299.7100000000001 179.71 297.99C175.0400000000001 297.5 171.35 297.99 168.4 298.48L161.2700000000001 301.92L155.8600000000001 308.31C156.8500000000001 318.4 157.34 327.25 159.06 334.39zM221.7700000000001 355.7800000000001C215.3800000000001 359.2200000000001 211.2000000000001 352.8300000000001 209.47 336.8400000000001S211.93 307.3300000000001 221.2700000000001 297.25C230.6100000000001 287.17 239.4700000000001 286.6800000000001 247.3400000000001 294.3000000000001C255.2100000000001 301.9200000000001 250.7800000000001 317.9100000000001 236.0300000000001 342.0100000000001C232.8400000000001 347.4200000000001 228.1600000000001 352.0900000000001 221.7700000000001 355.7800000000001zM217.1000000000001 309.5500000000001C222.4600000000001 307.3200000000001 227.6100000000001 307.6400000000001 229.4000000000001 320.12V324.79L228.1700000000001 324.3000000000001C223.8900000000001 327.35 225.6200000000001 328.79 226.4500000000001 330.4500000000001L226.9400000000001 330.9400000000001C226.0600000000001 332.1700000000001 221.9200000000001 339.0500000000001 214.4000000000001 326.2700000000001C213.9100000000001 339.8000000000001 214.8900000000001 348.1600000000001 217.3500000000001 351.11C218.5800000000001 353.5700000000001 222.0200000000001 352.3400000000001 228.6600000000001 346.9300000000001C235.0500000000001 341.5200000000001 239.9700000000001 330.9500000000001 243.9100000000001 314.4700000000001C250.5000000000001 286.4100000000001 224.2100000000001 288.2100000000001 217.1000000000001 309.5500000000001zM172.0900000000001 314.9600000000001C173.6600000000001 314.6500000000001 181.4300000000001 316.0500000000001 181.4300000000001 329.7200000000001H180.9400000000001C175.5000000000001 330.8100000000001 178.7000000000001 335.1900000000001 180.2000000000001 335.6200000000001C178.4800000000001 338.5700000000001 176.7600000000001 339.8000000000001 174.7900000000001 340.2900000000001C166.6400000000001 340.2900000000001 163.1400000000001 327.6300000000001 166.6700000000001 319.1400000000001C167.9100000000001 316.6800000000001 169.8800000000001 315.4500000000001 172.09 314.9600000000001zM218.0800000000001 253.4800000000001C219.8000000000001 242.9100000000001 222.7500000000001 235.7700000000001 226.9300000000001 231.5900000000001C217.6700000000001 224.98 199.3900000000001 217.7400000000001 180.4500000000001 215.6100000000001L180.9400000000001 214.3800000000001C189.3000000000001 213.1500000000001 197.4200000000001 213.8900000000001 205.7800000000001 216.8400000000001L198.6500000000001 203.8100000000001C202.8300000000001 205.5300000000001 208.7300000000001 210.9400000000001 216.3600000000001 218.5700000000001C228.2900000000001 224.0800000000001 229.0800000000001 223.6400000000001 236.5300000000001 234.5500000000001C223.8000000000001 241.1300000000001 220.7700000000001 248.3800000000001 218.0800000000001 253.4800000000001z\" />\n 1005:     <glyph glyph-name=\"themeco\"\n 1006        unicode=\"&#xF5C6;\"\n 1007        horiz-adv-x=\"441.03\" d=\" M199.74 435.71C209.48 441.35 225.33 441.44 235.13 435.92L423.26 329.9700000000001C433.07 324.45 441.02 310.83 441.02 299.5900000000001V85.72C441.02 74.46 433.09 60.83 423.31 55.2600000000001L235.09 -51.88C225.31 -57.45 209.51 -57.36 199.8 -51.67L17.58 55.05C7.87 60.74 0 74.48 0 85.73V299.5900000000001C0 310.85 7.9 324.55 17.63 330.18L199.74 435.71zM123.54 239C107.85 239 92.15 238.86 76.46 238.86V138.99H95.29V168.38H123.54C172.48 168.38 172.33 239 123.54 239zM261.5 140.27L231.25 174.37C267.65 181.76 265.51 238.58 220.55 238.86C204.71 238.86 188.88 239 173.04 239V138.99H191.87V172.37H210L239.1 138.99H261.5V140.27zM220.56 221.31C243.54 221.31 243.46 189.35 220.56 189.35H191.88V221.31H220.56zM126.49 222.88C147.34 222.88 147.27 184.64 126.49 184.64H94.68V222.87L126.49 222.88zM316.14 240.85C248.74 240.85 246.28 136.7 316.14 136.7C384.53 136.71 384.47 240.85 316.14 240.85zM316.14 223.73C359.57 223.73 360.24 153.97 316.14 153.97C272.02 153.97 272.4 223.73 316.14 223.73z\" />\n 1008:     <glyph glyph-name=\"themeisle\"\n 1009        unicode=\"&#xF2B2;\"\n 1010        horiz-adv-x=\"512\" d=\" M208 359.714C208 369.714 214.286 381.428 225.715 381.428C236.857 381.428 243.429 369.714 243.429 359.714C243.429 349.429 236.857 338 225.715 338C214.286 338 208 349.429 208 359.714zM512 199.714C512 163.713 500.571 97.428 475.714 70C452.856 45.142 388.286 8.857 354.857 -0.572L353.714 -0.858V-33.429C353.714 -49.715 341.142 -64 324.5710000000001 -64C314.5710000000001 -64 305.1420000000001 -58.286 299.999 -49.714C294.572 -58.286 285.1430000000001 -64 275.1430000000001 -64C265.1430000000001 -64 255.7140000000001 -58.286 250.2850000000001 -49.714C245.1430000000001 -58.286 235.7140000000001 -64 225.7150000000001 -64C215.429 -64 206.286 -58.286 200.857 -49.714C195.714 -58.286 186.286 -64 176.286 -64C157.429 -64 146.857 -48.286 146.857 -31.143C130.571 -43.4280000000001 111.142 -50.571 90.286 -50.571C68.286 -50.571 46.857 -42.286 30 -27.7140000000001C40.285 -27.4280000000001 50.571 -25.4280000000001 60.285 -22.0000000000001C39.428 -16.2860000000001 20.857 -3.143 8.285 14.2859999999999C29.655 9.641 54.494 12.6129999999999 75.428 25.429C53.428 47.429 18.857 84.286 6.856 112.857C1.143 126.286 0 144.286 0 158.571C0 208.285 20.286 318.5710000000001 86.286 318.5710000000001C96.857 318.5710000000001 105.143 313.713 109.429 303.7140000000001A158.792 158.792 0 0 0 121.429 319.1420000000001C123.429 321.7140000000001 127.143 324.5710000000001 128.572 327.428C136.571 339.999 140.286 348.5700000000001 150.286 361.428C182.571 402.572 232 430.857 285.143 430.857C291.143 430.857 297.143 430.572 302.857 429.714C313.714 441.429 328.8570000000001 448 344.572 448C359.1430000000001 448 374.286 442 384.572 431.714C385.4290000000001 430.856 386 429.428 386 428.286C386 424.572 375.715 414.857 373.1430000000001 412C377.4290000000001 410.5710000000001 388.8570000000001 405.142 388.8570000000001 400C388.8570000000001 397.1430000000001 386 394.857 384.286 392.857C415.715 365.1430000000001 433.7150000000001 325.714 440.572 284.857C444.858 290 450.857 293.429 457.715 293.429C468.2860000000001 293.429 478.572 286.285 486.2860000000001 279.428C507.143 260.857 512 226.286 512 199.714zM188 358.572C188 340.286 200.571 321.429 220.286 321.429C240 321.429 252.571 340.286 252.571 358.572C252.571 376.572 240 395.429 220.286 395.429C200.571 395.429 188 376.5710000000001 188 358.572zM237.714 254C237.714 273.714 241.428 293.1430000000001 246.285 312.286C194.246 232.752 232.754 127.715 315.1430000000001 127.715C336.5710000000001 127.715 357.7140000000001 135.429 375.1430000000001 147.715C377.1430000000001 155.144 378.8570000000001 162.572 378.8570000000001 170.287C378.8570000000001 184.573 372.5710000000001 191.715 358.2850000000001 191.715C353.714 191.715 349.1420000000001 190.858 344.8560000000001 190.001C281.5130000000001 177.333 237.7140000000001 186.3320000000001 237.7140000000001 254.0000000000001zM196.572 -0.858C196.572 10.285 187.714 19.999 176.286 19.999C164.857 19.999 156.286 10.284 156.286 -0.8579999999999V-33.429C156.286 -44.572 164.857 -54.571 176.286 -54.571C187.714 -54.571 196.572 -44.856 196.572 -33.429V-0.8579999999999zM245.715 -0.858C245.715 10.285 237.143 19.999 225.715 19.999C214.286 19.999 205.429 10.284 205.429 -0.8579999999999V-33.429C205.429 -44.572 214.286 -54.571 225.715 -54.571C237.143 -54.571 245.715 -44.571 245.715 -33.429V-0.8579999999999zM295.428 -0.858C295.428 10.285 286.5710000000001 19.999 275.143 19.999C263.714 19.999 254.857 10.284 254.857 -0.8579999999999V-33.429C254.857 -44.572 263.714 -54.571 275.143 -54.571C286.571 -54.571 295.428 -44.856 295.428 -33.429V-0.8579999999999zM345.1430000000001 -0.858C345.1430000000001 10.285 336.2860000000001 19.999 324.8570000000001 19.999C313.4290000000001 19.999 304.5710000000001 10.284 304.5710000000001 -0.8579999999999V-33.429C304.5710000000001 -44.572 313.4290000000001 -54.571 324.8570000000001 -54.571C336.286 -54.571 345.1430000000001 -44.571 345.1430000000001 -33.429V-0.8579999999999zM421.714 162C390.857 102.858 331.429 59.428 263.1430000000001 59.428C166.572 59.428 102.572 144 102.572 236C102.572 252.857 104.572 269.429 108.572 285.714C88.572 251.999 78.858 213.142 78.858 174.285C78.858 113.999 103.715 52.5699999999999 150.287 13.428C155.43 23.142 165.144 29.714 176.287 29.714C186.287 29.714 195.715 24 200.858 15.428C206.287 23.999 215.429 29.714 225.7160000000001 29.714C235.7160000000001 29.714 245.1440000000001 24 250.2870000000001 15.428C255.7160000000001 23.999 265.144 29.714 275.1450000000001 29.714C285.1450000000001 29.714 294.5730000000001 24 300.0020000000001 15.428C305.1450000000001 23.999 314.5730000000001 29.714 324.5740000000001 29.714C335.4310000000001 29.714 345.4310000000001 23.142 350.2880000000001 13.714C393.7150000000001 50 418.8570000000001 105.714 421.7140000000001 162zM432.286 261.714C432.286 315.428 397.7150000000001 367.428 339.714 367.428C309.429 367.428 281.1430000000001 352.285 260.857 330.5710000000001C240.862 264.188 233.41 194 302.286 194C331.091 194 399.6430000000001 222.538 386.572 157.143C415.429 183.143 432.286 222.857 432.286 261.7140000000001z\" />\n\n67 matches across 13 files\n",
+			"settings":
+			{
+				"buffer_size": 38186,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "_pages/about.md",
+			"settings":
+			{
+				"buffer_size": 1588,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					14,
+					1,
+					"right_delete",
+					null,
+					"AQAAAD0BAAAAAAAAPQEAAAAAAAAIAAAAIGN1cnJlbnQ",
+					"AQAAAAAAAAABAAAAPQEAAAAAAABFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHgBAAAAAAAAeQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAHkBAAAAAAAAegEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQEAAAAAAAB5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAHoBAAAAAAAAewEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "ter"
+					},
+					"AwAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAB9AQAAAAAAAH4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewEAAAAAAAB7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAHkBAAAAAAAAeQEAAAAAAAAFAAAAQWZ0ZXI",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHgBAAAAAAAAeAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAeQEAAAAAAAB5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHgBAAAAAAAAeQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAHkBAAAAAAAAegEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQEAAAAAAAB5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAHoBAAAAAAAAewEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "ter"
+					},
+					"AwAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAB9AQAAAAAAAH4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewEAAAAAAAB7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": " complet"
+					},
+					"CAAAAH4BAAAAAAAAfwEAAAAAAAAAAAAAfwEAAAAAAACAAQAAAAAAAAAAAACAAQAAAAAAAIEBAAAAAAAAAAAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAACDAQAAAAAAAAAAAACDAQAAAAAAAIQBAAAAAAAAAAAAAIQBAAAAAAAAhQEAAAAAAAAAAAAAhQEAAAAAAACGAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "ion"
+					},
+					"AwAAAIYBAAAAAAAAhwEAAAAAAAAAAAAAhwEAAAAAAACIAQAAAAAAAAAAAACIAQAAAAAAAIkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgEAAAAAAACGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": " of"
+					},
+					"AwAAAIkBAAAAAAAAigEAAAAAAAAAAAAAigEAAAAAAACLAQAAAAAAAAAAAACLAQAAAAAAAIwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQEAAAAAAACJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": " my"
+					},
+					"AwAAAIwBAAAAAAAAjQEAAAAAAAAAAAAAjQEAAAAAAACOAQAAAAAAAAAAAACOAQAAAAAAAI8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": " PhD,"
+					},
+					"BQAAAI8BAAAAAAAAkAEAAAAAAAAAAAAAkAEAAAAAAACRAQAAAAAAAAAAAACRAQAAAAAAAJIBAAAAAAAAAAAAAJIBAAAAAAAAkwEAAAAAAAAAAAAAkwEAAAAAAACUAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwEAAAAAAACPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": " I"
+					},
+					"AgAAAJQBAAAAAAAAlQEAAAAAAAAAAAAAlQEAAAAAAACWAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": " c"
+					},
+					"AgAAAJYBAAAAAAAAlwEAAAAAAAAAAAAAlwEAAAAAAACYAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJcBAAAAAAAAlwEAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "am"
+					},
+					"AgAAAJcBAAAAAAAAmAEAAAAAAAAAAAAAmAEAAAAAAACZAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJkBAAAAAAAAmgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQEAAAAAAACZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "continu"
+					},
+					"BwAAAJoBAAAAAAAAmwEAAAAAAAAAAAAAmwEAAAAAAACcAQAAAAAAAAAAAACcAQAAAAAAAJ0BAAAAAAAAAAAAAJ0BAAAAAAAAngEAAAAAAAAAAAAAngEAAAAAAACfAQAAAAAAAAAAAACfAQAAAAAAAKABAAAAAAAAAAAAAKABAAAAAAAAoQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgEAAAAAAACaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AgAAAJoBAAAAAAAAmwEAAAAAAAAAAAAAmwEAAAAAAACbAQAAAAAAAAcAAABjb250aW51",
+					"AQAAAAAAAAABAAAAoQEAAAAAAACaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "xploring"
+					},
+					"CAAAAJsBAAAAAAAAnAEAAAAAAAAAAAAAnAEAAAAAAACdAQAAAAAAAAAAAACdAQAAAAAAAJ4BAAAAAAAAAAAAAJ4BAAAAAAAAnwEAAAAAAAAAAAAAnwEAAAAAAACgAQAAAAAAAAAAAACgAQAAAAAAAKEBAAAAAAAAAAAAAKEBAAAAAAAAogEAAAAAAAAAAAAAogEAAAAAAACjAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKMBAAAAAAAApAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowEAAAAAAACjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"paste",
+					null,
+					"AgAAAJMAAAAAAAAA3wMAAAAAAAAAAAAA3wMAAAAAAADfAwAAAAAAAL8CAABIYXZpbmcgY29tcGxldGVkIHVuZGVyZ3JhZHVhdGUgc3R1ZGllcyBpbiBjb21wdXRlciBzY2llbmNlcyAmIGVsZWN0cmljYWwgZW5naW5lZXJpbmcsIGFuIGludGVyZXN0IHRvd2FyZHMgaW50ZXJkaXNjaXBsaW5hcnkgYXBwbGljYXRpb25zIG9mIGNvbXB1dGVyIHNjaWVuY2UgZW5jb3VyYWdlZCBteSBQaEQgc3R1ZGllcyBvbiBjb21wdXRhdGlvbmFsIG1vZGVscyBvZiBicmFpbiBjb25uZWN0aXZpdHkuIEFmdGVyIGNvbXBsZXRpb24gb2YgbXkgUGhELCBJIGFtIGV4cGxvcmluZyAgSSBhbSBtYWlubHkgaW50ZXJlc3RlZCBpbiB0aGUgYXBwbGljYXRpb25zIG9mIGNvbXBsZXggbmV0d29ya3MgJiBncmFwaCBhbGdvcml0aG1zIGluIG5ldHdvcmsgbmV1cm9zY2llbmNlLiBUaGUgYWR2YW5jZW1lbnQgb2Ygb3BlbiBzY2llbmNlIGluaXRpYXRpdmVzIGFuZCBvcGVubHkgYXZhaWxhYmxlIG5ldXJvaW1hZ2luZyBkYXRhc2V0cyBoYXMgcHJvdmlkZWQgYWJ1bmRhbnQgcmVzZWFyY2ggb3Bwb3J0dW5pdGllcyBmb3IgY29tcHV0YXRpb25hbCBuZXVyb3NjaWVuY2UuIE15IHJlc2VhcmNoIGFpbXMgdG8gaW1wcm92ZSBjb21wdXRhdGlvbmFsIG1vZGVscyB0aGF0IHJlbGF0ZSBicmFpbiBjb25uZWN0aXZpdHkgdG8gaW5kaXZpZHVhbCBkaWZmZXJlbmNlcyBpbmZsdWVuY2luZyBiZWhhdmlvcmFsIHRyYWl0cyBhbmQgcHN5Y2hvcGF0aG9sb2dpZXMu",
+					"AQAAAAAAAAABAAAAUgMAAAAAAACTAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJEAAAAAAAAAkgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJIAAAAAAAAAkwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"paste",
+					null,
+					"AQAAAJMAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert_snippet",
+					{
+						"contents": "(${0:$SELECTION})"
+					},
+					"AgAAAJMAAAAAAAAAkwAAAAAAAAATAAAAaGlnaC1yZXMtdHJhY3RzLnBuZ5MAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACTAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "images/"
+					},
+					"BwAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "!"
+					},
+					"AQAAAJMAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					134,
+					1,
+					"insert",
+					{
+						"characters": "{}"
+					},
+					"AgAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJUAAAAAAAAAlQAAAAAAAAABAAAAfZQAAAAAAAAAlAAAAAAAAAABAAAAew",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"insert",
+					{
+						"characters": "[]"
+					},
+					"AgAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					145,
+					1,
+					"paste",
+					null,
+					"AQAAALQAAAAAAAAAKAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAADtA"
+				],
+				[
+					148,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACgBAAAAAAAAKQEAAAAAAAAAAAAAKQEAAAAAAAAuAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAALMAAAAAAAAAtwAAAAAAAAAAAAAAkwAAAAAAAACYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAgEZA"
+				],
+				[
+					164,
+					1,
+					"paste",
+					null,
+					"AgAAAMcAAAAAAAAA4gAAAAAAAAAAAAAA4gAAAAAAAADiAAAAAAAAABcAAABtYXJrZG93bm1vbnN0ZXJpY29uLnBuZw",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AwAAAO4AAAAAAAAA7wAAAAAAAAAAAAAA7wAAAAAAAADvAAAAAAAAABUAAABNYXJrZG93biBNb25zdGVyIGljb24iAQAAAAAAACIBAAAAAAAABQAAACAgICAg",
+					"AQAAAAAAAAABAAAAAwEAAAAAAADuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"insert",
+					{
+						"characters": "bout"
+					},
+					"BAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					1,
+					"insert",
+					{
+						"characters": " me"
+					},
+					"AwAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD1AAAAAAAAAAAAAAD1AAAAAAAAAPYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"paste",
+					null,
+					"AQAAACQBAAAAAAAALwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACQBAAAAAAAAJQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					212,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQBAAAAAAAAJAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					216,
+					1,
+					"cut",
+					null,
+					"AQAAACQBAAAAAAAAJAEAAAAAAAALAAAAd2lkdGg9IjUwJSI",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"right_delete",
+					null,
+					"AQAAACUBAAAAAAAAJQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACUBAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAArAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"paste",
+					null,
+					"AQAAACsBAAAAAAAANgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					225,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADYBAAAAAAAANwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADkBAAAAAAAAOgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					233,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAADoBAAAAAAAAOwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"insert",
+					{
+						"characters": "b"
+					},
+					"AQAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAADwBAAAAAAAAPQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AQAAAD0BAAAAAAAAPgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQEAAAAAAAA9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					241,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD0BAAAAAAAAPQEAAAAAAAABAAAAXA",
+					"AQAAAAAAAAABAAAAPgEAAAAAAAA+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					243,
+					3,
+					"left_delete",
+					null,
+					"AwAAADwBAAAAAAAAPAEAAAAAAAABAAAAcjsBAAAAAAAAOwEAAAAAAAABAAAAYjoBAAAAAAAAOgEAAAAAAAABAAAAPA",
+					"AQAAAAAAAAABAAAAPQEAAAAAAAA9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					247,
+					1,
+					"paste",
+					null,
+					"AQAAADoBAAAAAAAAPgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					255,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAD0BAAAAAAAAPgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQEAAAAAAAA9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"right_delete",
+					null,
+					"AQAAADoBAAAAAAAAOgEAAAAAAAAFAAAAPGJyLz4",
+					"AQAAAAAAAAABAAAAPwEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					265,
+					1,
+					"left_delete",
+					null,
+					"AQAAADkBAAAAAAAAOQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOgEAAAAAAAA6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALwAAAAAAAAAvQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					274,
+					1,
+					"paste",
+					null,
+					"AQAAAL0AAAAAAAAAGgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQAAAAAAAAC9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"swap_line_up",
+					null,
+					"AgAAABsBAAAAAAAAGwEAAAAAAAB9AAAAPGltZyBzcmM9Ii9pbWFnZXMvaGlnaC1yZXMtdHJhY3RzLnBuZyIKICAgICBhbHQ9IkFib3V0IG1lIgogICAgIHN0eWxlPSJmbG9hdDogbGVmdDsgbWFyZ2luLXJpZ2h0OiAxMHB4OyIKICAgICB3aWR0aD0iNTAlIiAvPgoUAQAAAAAAAJEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQEAAAAAAACKAQAAAAAAAAAAAAAAAEtA"
+				],
+				[
+					282,
+					1,
+					"indent",
+					null,
+					"BAAAABQBAAAAAAAAFgEAAAAAAAAAAAAAPQEAAAAAAAA/AQAAAAAAAAAAAABTAQAAAAAAAFUBAAAAAAAAAAAAAIMBAAAAAAAAhQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgEAAAAAAACDAQAAAAAAAAAAAAAAAEtA"
+				],
+				[
+					284,
+					1,
+					"indent",
+					null,
+					"BAAAABQBAAAAAAAAFgEAAAAAAAAAAAAAPwEAAAAAAABBAQAAAAAAAAAAAABXAQAAAAAAAFkBAAAAAAAAAAAAAIkBAAAAAAAAiwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAEAAAAAAACLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					289,
+					1,
+					"cut",
+					null,
+					"AQAAAOkAAAAAAAAA6QAAAAAAAAArAAAAICAgIDxpbWcgc3JjPSIjIiB3aWR0aD0iNTAlIiBoZWlnaHQ9IjUwJSI+Cg",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAgFZA"
+				],
+				[
+					297,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMIAAAAAAAAAwgAAAAAAAAAlAAAAc3R5bGU9IndpZHRoOiAxMDAwcHg7IGhlaWdodDogNjAwcHg7Ig",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					299,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMEAAAAAAAAAwQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					312,
+					1,
+					"right_delete",
+					null,
+					"AQAAAAUBAAAAAAAABQEAAAAAAAAyAAAACiAgICAgICAgIHN0eWxlPSJmbG9hdDogbGVmdDsgbWFyZ2luLXJpZ2h0OiAxMHB4OyI",
+					"AQAAAAAAAAABAAAANwEAAAAAAAAFAQAAAAAAAP///////+9/"
+				],
+				[
+					323,
+					1,
+					"paste",
+					null,
+					"AQAAAMEAAAAAAAAA3QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					331,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANwAAAAAAAAA3QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					333,
+					1,
+					"paste",
+					null,
+					"AQAAAN0AAAAAAAAA8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					348,
+					1,
+					"paste",
+					null,
+					"AgAAANwAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADyAAAAAAAAABYAAAAgcGFkZGluZy1ib3R0b206IDI1cHg7",
+					"AQAAAAAAAAABAAAA3AAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					350,
+					1,
+					"paste",
+					null,
+					"AQAAAPIAAAAAAAAACAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					354,
+					1,
+					"insert",
+					{
+						"characters": "top"
+					},
+					"BAAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAD8AAAAAAAAAAYAAABib3R0b238AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAABAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					364,
+					1,
+					"cut",
+					null,
+					"AQAAAJEAAAAAAAAAkQAAAAAAAADYAAAACgo8IS0tICFbXSgvaW1hZ2VzL2hpZ2gtcmVzLXRyYWN0cy5wbmcpIC0tPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IHBhZGRpbmctYm90dG9tOiAyNXB4OyBwYWRkaW5nLXRvcDogMjVweDsiPgogICAgPGltZyBzcmM9Ii9pbWFnZXMvaGlnaC1yZXMtdHJhY3RzLnBuZyIKICAgICAgICAgYWx0PSJBYm91dCBtZSIKICAgICAgICAgd2lkdGg9IjUwJSIgLz4KPC9kaXY+",
+					"AQAAAAAAAAABAAAAaQEAAAAAAACRAAAAAAAAAAAAAAAASIJA"
+				],
+				[
+					369,
+					1,
+					"paste",
+					null,
+					"AQAAAN8DAAAAAAAAtwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wMAAAAAAADfAwAAAAAAAAAAAAAAgGZA"
+				],
+				[
+					394,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAALcEAAAAAAAAuwQAAAAAAAAAAAAACwQAAAAAAAAQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtwQAAAAAAAALBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					398,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAOEDAAAAAAAA4QMAAAAAAAAFAAAAPCEtLSABBAAAAAAAAAEEAAAAAAAABAAAACAtLT4",
+					"AQAAAAAAAAABAAAA5gMAAAAAAADmAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					401,
+					1,
+					"paste",
+					null,
+					"AQAAAAEEAAAAAAAAEQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQQAAAAAAAABBAAAAAAAAP///////+9/"
+				],
+				[
+					404,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA0EAAAAAAAADQQAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAADgQAAAAAAAAOBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					406,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAwEAAAAAAAADAQAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAADQQAAAAAAAANBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					408,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAsEAAAAAAAACwQAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAADAQAAAAAAAAMBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					410,
+					1,
+					"insert",
+					{
+						"characters": "50%"
+					},
+					"AwAAAAsEAAAAAAAADAQAAAAAAAAAAAAADAQAAAAAAAANBAAAAAAAAAAAAAANBAAAAAAAAA4EAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwQAAAAAAAALBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					416,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABEEAAAAAAAAEgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQQAAAAAAAARBAAAAAAAAP///////+9/"
+				],
+				[
+					419,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOEDAAAAAAAA4gMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QMAAAAAAADhAwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					422,
+					1,
+					"paste",
+					null,
+					"AQAAAOEDAAAAAAAABwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QMAAAAAAADhAwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					429,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADkEAAAAAAAAOgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQQAAAAAAAA5BAAAAAAAAAAAAAAAYHVA"
+				],
+				[
+					432,
+					1,
+					"paste",
+					null,
+					"AQAAADkEAAAAAAAAQwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQQAAAAAAAA5BAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "_portfolio/portfolio-1.md",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/publications.md",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shell",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mat",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_includes",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_layouts",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_pages",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_portfolio",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/assets",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/assets/css"
+	],
+	"file_history":
+	[
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_config.dev.yml",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/Gemfile",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_config.yml",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/assets/css/main.scss",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_sass/_base.scss",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2021-03-23-poster-7.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2021-06-21-poster-8.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2021-11-29-poster-10.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2022-03-26-poster-11.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2021-08-24-poster-9.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2022-06-21-poster-12.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2022-06-23-poster-13.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_talks/2022-07-29-poster-14.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_teaching/2021-teaching-6.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_teaching/2021-teaching-8.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_teaching/2021-teaching-7.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_publications/2022-04-15-paper-title-number-8.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_publications/2022-08-15-paper-title-number-9.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_publications/2021-08-20-paper-title-number-7.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_publications/2021-04-30-paper-title-number-6.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_includes/base_path",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_teaching/2019-teaching-2.5.md",
+		"/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io/_teaching/2021-teaching-5.md",
+		"/home/sina/.config/enchant/en_AU.exc",
+		"/home/sina/.config/enchant/en_AU.dic",
+		"/home/sina/Pictures/tmp/research/reviews/BTOP/BTOP-D-20-00196/Response.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/single_subject_tractography.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/run.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/utils.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/niutils.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/fMRI_Amir_fix.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/constants.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/SC_Amir_subcortical.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/SC_Amir.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/diffusion_motion.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/fMRI_Amir.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/structural_connectome_map_tms_sgc.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/mayavi_test.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/structural_connectome_map_tms_wsubcortex.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/structural_connectome_map_tms.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/hcp.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/useful.sh",
+		"/tmp/rsub-0otram/spartan_structural_connectome_map_tms_from_seed_file_wsubcortex.sh",
+		"/tmp/rsub-9_m8rw/diffusion_motion.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/DataStore/tmp/eddy/eddy_unwarped_images.eddy_restricted_movement_rms",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/DataStore/tmp/eddy/eddy_unwarped_images.eddy_movement_rms",
+		"/tmp/rsub-dh9w3z/spartan_structural_connectome_map_tms_from_seed_file_wsubcortex.sh",
+		"/tmp/rsub-1nuy2r/spartan_structural_connectome_map_tms_wsubcortex.sh",
+		"/tmp/rsub-ekhpdr/spartan_structural_connectome_map_tms.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/temp/sgc from robin/DLPFC_coords/final_coords_minD_Sina.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/files from others/Ye/Movement_REST1.mat",
+		"/tmp/rsub-7rndes/structural_connectome_map_tms.py",
+		"/tmp/rsub-j5md5g/spartan_structural_connectome_map_tms_from_seed_file.sh",
+		"/tmp/rsub-j_1ynl/smoothing_summary_file_size.py",
+		"/tmp/rsub-oevstf/spartan_structural_connectome_map_tms.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/subject_files.sh",
+		"/tmp/rsub-43q44p/spartan_structural_connectome_map_tms.sh",
+		"/tmp/rsub-krjh8p/spartan_scratch_unsmoothing_parameteres_det_atlas.sh",
+		"/tmp/rsub-srzmfo/smoothing_parameters_det.py",
+		"/tmp/rsub-_5b8s3/spartan_scratch_unsmoothing_parameteres_det_atlas.sh",
+		"/tmp/rsub-uhavp5/unsmoothing_parameters_det_atlas.py",
+		"/tmp/rsub-0s_wvk/spartan_scratch_smoothing_parameteres_det_atlas.sh",
+		"/tmp/rsub-8q2z3_/spartan_scratch_smoothing_parameteres_det_atlas.sh",
+		"/tmp/rsub-_1o3l5/spartan_scratch_all_retest_smoothing_parameteres_det_atlas.sh",
+		"/tmp/rsub-wwf58v/smoothing_parameters_det_atlas.py",
+		"/tmp/rsub-3vhhz3/spartan_scratch_smoothing_parameteres_det_atlas.sh",
+		"/tmp/rsub-u1sxa3/smoothing_parameters_det_atlas.py",
+		"/tmp/rsub-00g8sq/smoothing_parameters_det_atlas.py",
+		"/home/sina/Downloads/tmp/Persian words 4 databases textfile/Persian words 4 databases textfile.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/smoothing_single.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/check_smoothing.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/smoothing_pipeline.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/all_smoothing_parameters.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/smoothing_parameters.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/check_smoothing_failed_pairs.py",
+		"/home/sina/Pictures/tmp/research/CNS2020/2020-07-21 00-23-42.mat",
+		"/home/sina/Pictures/tmp/research/ISMRM2020/data.csv",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/gitignored/failed_params.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/vcm.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/venv_setup.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/2020 OHBM Brainhack/2020_ohbm_brainhack_machine_learning_project/sub_chosen_all.mat",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spintest.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/Schedule/record.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/gitignored/failed_params.json",
+		"/home/sina/Downloads/tmp/HCP_subjects_used.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/hcp_subjects_used.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/index.html",
+		"/home/sina/Downloads/tmp/ForThomas.txt",
+		"/home/sina/Downloads/tmp/updated.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_single_subject_tractography.sh",
+		"/home/sina/.local/lib/python2.7/site-packages/numpy/__init__.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/requirements.txt",
+		"/home/sina/Pictures/snapshot3.x3d",
+		"/home/sina/tempf.bak",
+		"/home/sina/tempf",
+		"/home/sina/Downloads/tmp/MZ_twins.txt",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/test-retest-parcellation-based-structural-uniqueness.ipynb",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/Parcellations.ipynb",
+		"/media/sina/Windows/Users/smansourlako/Documents/Reserach/Codes/fMRI/vcm.py",
+		"/media/sina/Windows/Users/smansourlako/Documents/Reserach/files from others/Sabuncu/Morphometricity.m",
+		"/media/sina/Windows/Users/smansourlako/Documents/Reserach/files from others/Sabuncu/VCM.m",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/files from others/Ye/vcm_internal_matrix.m",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/files from others/Sabuncu/Morphometricity.m",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/files from others/Ye/unrestricted.mat",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_parcellate_structure.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/single_subject_downlod.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/download_all_test_retest.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/dev_single_subject_tractography.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/test_single_subject_tractography.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_tmp.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_tmp.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Unimelb/Course Subjects/Knowledge Technologies/project/KnowledgeTechnologiesProject1/setup.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Unimelb/Course Subjects/Knowledge Technologies/project/KnowledgeTechnologiesProject1/compile.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Unimelb/Course Subjects/Knowledge Technologies/project/KnowledgeTechnologiesProject1/cycodes.pyx",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Unimelb/Course Subjects/Knowledge Technologies/project/KnowledgeTechnologiesProject1/ccodes.cpp",
+		"/home/sina/.config/sublime-text-3/Packages/User/SublimeLint.sublime-settings",
+		"/home/sina/.config/sublime-text-3/Packages/sublimelint/SublimeLint.sublime-settings",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Unimelb/Course Subjects/Knowledge Technologies/project/KnowledgeTechnologiesProject1/pycodes.py",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Unimelb/Course Subjects/Knowledge Technologies/project/KnowledgeTechnologiesProject1/codes.cpp",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_all_test_retest_rerun_missing_structural_correlation.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_all_test_retest_find_missing_structural_correlation.sh",
+		"/home/sina/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/sina/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_all_test_retest_structural_correlation.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_single_test_retest_structural_correlation.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_all_test_retest_rfmri_correlation.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_single_test_retest_rfmri_correlation.sh",
+		"/media/sina/Windows1/Users/smansourlako/Documents/Reserach/Codes/fMRI/spartan_all_test_retest_tractography.sh"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"back",
+			"color",
+			"dark",
+			"theme",
+			"base_path",
+			"base",
+			"base_path",
+			"base",
+			"github.io",
+			"avatar.jpg",
+			"avatar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_pages/cv.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3296,
+								3296
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_talks/2020-08-08-poster-6.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								289
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2473,
+								2478
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_config.yml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								704
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38186,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										181,
+										186
+									],
+									[
+										195,
+										200
+									],
+									[
+										209,
+										214
+									],
+									[
+										231,
+										236
+									],
+									[
+										245,
+										250
+									],
+									[
+										545,
+										550
+									],
+									[
+										666,
+										671
+									],
+									[
+										845,
+										850
+									],
+									[
+										992,
+										997
+									],
+									[
+										1361,
+										1366
+									],
+									[
+										1559,
+										1564
+									],
+									[
+										2185,
+										2190
+									],
+									[
+										2441,
+										2446
+									],
+									[
+										2642,
+										2647
+									],
+									[
+										2864,
+										2869
+									],
+									[
+										3115,
+										3120
+									],
+									[
+										3432,
+										3437
+									],
+									[
+										3625,
+										3630
+									],
+									[
+										3671,
+										3676
+									],
+									[
+										3714,
+										3719
+									],
+									[
+										3756,
+										3761
+									],
+									[
+										3799,
+										3804
+									],
+									[
+										3844,
+										3849
+									],
+									[
+										3887,
+										3892
+									],
+									[
+										3932,
+										3937
+									],
+									[
+										3976,
+										3981
+									],
+									[
+										4022,
+										4027
+									],
+									[
+										4065,
+										4070
+									],
+									[
+										4107,
+										4112
+									],
+									[
+										4151,
+										4156
+									],
+									[
+										4370,
+										4375
+									],
+									[
+										4546,
+										4551
+									],
+									[
+										4654,
+										4659
+									],
+									[
+										4759,
+										4764
+									],
+									[
+										4863,
+										4868
+									],
+									[
+										4974,
+										4979
+									],
+									[
+										5081,
+										5086
+									],
+									[
+										5186,
+										5191
+									],
+									[
+										5293,
+										5298
+									],
+									[
+										5399,
+										5404
+									],
+									[
+										5507,
+										5512
+									],
+									[
+										5663,
+										5668
+									],
+									[
+										5767,
+										5772
+									],
+									[
+										5873,
+										5878
+									],
+									[
+										6164,
+										6169
+									],
+									[
+										6303,
+										6308
+									],
+									[
+										6591,
+										6596
+									],
+									[
+										6907,
+										6912
+									],
+									[
+										7185,
+										7190
+									],
+									[
+										7282,
+										7287
+									],
+									[
+										8514,
+										8519
+									],
+									[
+										8938,
+										8943
+									],
+									[
+										9237,
+										9242
+									],
+									[
+										9587,
+										9592
+									],
+									[
+										9639,
+										9644
+									],
+									[
+										10047,
+										10052
+									],
+									[
+										10092,
+										10097
+									],
+									[
+										10130,
+										10135
+									],
+									[
+										10177,
+										10182
+									],
+									[
+										10554,
+										10559
+									],
+									[
+										10835,
+										10840
+									],
+									[
+										11011,
+										11016
+									],
+									[
+										11042,
+										11047
+									],
+									[
+										11282,
+										11287
+									],
+									[
+										13509,
+										13514
+									],
+									[
+										31989,
+										31994
+									],
+									[
+										33079,
+										33084
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1382,
+								1450
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/sina/Documents/Research/Codes/websites/sina-mansour.github.io",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_pages/about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_portfolio/portfolio-1.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_pages/publications.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-website.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ni",
+				"niutils.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Research/Codes/fMRI/connectomics.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

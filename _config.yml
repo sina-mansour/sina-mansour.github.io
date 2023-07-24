@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sina Mansour L."
 title_separator          : "-"
 name                     : &name "Sina Mansour L."
-description              : &description "Postdoctoral Research Fellow at The University of Melbourne"
+description              : &description "Network science enthusiast admiring the brain 🧠"
 # url                      : http://personal.website # this is used for development only
 url                      : https://sina-mansour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Sina Mansour L."
   avatar           : "avatar.png"
-  bio              : "Postdoctoral Research Fellow at <a href='http://www.sysneuro.org/'>MNC Systems lab</a>, <br> The University of Melbourne, Network science enthusiast admiring the brain"
+  bio              : "Network science enthusiast admiring the brain 🧠, <br> Postdoctoral Research Fellow <br> <a href='https://sites.google.com/view/yeolab'>Computational Brain Imaging Group</a>, National University of Singapore, and <br> <a href='http://www.sysneuro.org/'>MNC Systems lab</a>, <br> The University of Melbourne"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

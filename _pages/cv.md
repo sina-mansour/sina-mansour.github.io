@@ -11,12 +11,19 @@ redirect_from:
 
 The CV is also available as a [📜 PDF doucument 📜](/files/sina_mansour_cv_recent.pdf).
 
-## Education 👨‍🎓
+## Career and Education 👨‍🎓
 * B.Sc. in Electrical Engineering, **Sharif University of Technology**, 2017
 * B.Sc. in Computer Sciences, **Sharif University of Technology**, 2017
-* Ph.D in Biomedical Engineering, **The University of Melbourne**, 2022 (expected)
+* Ph.D in Biomedical Engineering, **The University of Melbourne**, 2022
+* Postdoctoral Research Fellow, **The University of Melbourne**, 2022--2023
+* Postdoctoral Research Fellow, **National University of Singapore**, 2023--2024
   
 ## Other experiences ✨
+* 2023: Project Instigator (Cerebro); [OHBM Brainhack 2023](https://ohbm.github.io/hackathon2023/)
+* 2023: Hackathon co-chair elect; [OHBM Brainhack 2023](https://ohbm.github.io/hackathon2023/)
+* 2022: Project Instigator (Cerebro); [Brainhack Global 2022 (Australiasia Hub)](https://brainhack-aus.github.io/global2022/)
+* 2022: Hackathon Organizer; [Brainhack Global 2022 (Australiasia Hub)](https://brainhack-aus.github.io/global2022/)
+* 2021: Q&A co-host (volunteer); [OHBM Brainhack 2021](https://ohbm.github.io/hackathon2021/)
 * 2020--2021: Chair; [IEEE student branch at The University of Melbourne](https://edu.ieee.org/au-unimelb/)
 * 2020: Traintrack tutor; [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/)
 * 2020: Victorian Section Ambassador; [IEEEXtreme](https://ieeextreme.org/) 14.0 Programming competition
@@ -27,6 +34,10 @@ The CV is also available as a [📜 PDF doucument 📜](/files/sina_mansour_cv_r
 * 2015--2017: Full stack web developer; [Maktabkhooneh](http://maktabkhooneh.org/) (part time)
   
 ## Awards 🌟
+* 2022: Awarded the Best Student Paper Prize from the IEEE Victorian Section.
+* 2021: Awarded the best poster ECR award at Maths in the Brain 2021.
+* 2021: Awarded the Open Science fellowship from the OHBM Open Science Special Interest Group.
+* 2021: Awarded the IEEE Special Recognition Award (Student Branch Category) from the IEEE Region 10 (as the branch chair).
 * 2020: Awarded the [Student Engagement Grant](https://provost.unimelb.edu.au/awards-grants-initiatives/student_engagement_grants_program) (SEG) 2020 as part of the IEEE student branch University of Melbourne (In collaboration with Dr. Nandakishor Desai, Amount funded: $4,200). This grant partly supported the IEEE Unlock Xtreme 14.0 workshop series.
 * 2019: Best poster presentation and graphical abstract, SOBR 2019 student symposium
 * 2019: Awarded a GSA grant to support the Programming for Neuroimaging Data Analysis (PNDA) workshop series under [SONR](https://gsa.unimelb.edu.au/grad-group/students-of-neuropsychiatry-research-sonr/) (In collaboration with D. Rakesh, Amount funded: $200)

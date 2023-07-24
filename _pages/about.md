@@ -10,7 +10,11 @@ redirect_from:
 
 <!-- # Who am I? -->
 
-Having completed undergraduate studies in computer sciences & electrical engineering, an interest in interdisciplinary applications of computer science encouraged my PhD studies on computational models of brain connectivity. After completing my PhD, I am continuing on a journey in exploring computational methods that enable a deeper understanding of the human brain.  I am particularly interested in the applications of concepts such as complex networks, algorithms, and machine learning in computational neuroscience. The advancement of open science initiatives and openly available neuroimaging datasets has provided abundant opportunities to build better tools to study the brain. My research aims to improve computational models that relate brain connectivity to individual differences influencing behavioral traits and psychopathologies.
+Driven by a relentless curiosity about the human brain and armed with a diverse background in computer sciences & electrical engineering, my academic journey has been guided by a fascination for interdisciplinary applications of computer science. During my undergraduate studies, I found my passion for computational neuroscience, leading me to pursue a PhD focused on computational models of brain connectivity. Now, I am on an exhilarating journey, exploring computational methods that offer a deeper understanding of the complexities of the human brain.
+
+My primary interests lie in the dynamic interplay between complex networks, algorithms, and artificial intelligence within the context of computational neuroscience. As open science initiatives and the availability of neuroimaging datasets continue to expand, I see boundless opportunities to build powerful tools that unlock the secrets of the brain. I am determined to improve computational models that bridge brain connectivity with individual differences, shedding light on the factors that influence behavioral traits and psychopathologies.
+
+Ultimately, my vision is to contribute to a future where computational neuroscience plays a pivotal role in transforming our understanding of the human brain and its intricate workings, ushering in new avenues for tackling neurological challenges and enhancing human well-being.
 
 {:refdef: style="text-align: center;"}
 ![](/images/high-res-tracts.png){: width="50%" }
@@ -26,17 +30,17 @@ Having completed undergraduate studies in computer sciences & electrical enginee
 
 ### Theory:
 
+- Algorithms
 - Graph theory
 - Network science
-- Algorithms
-- Machine learning
-- Data mining
+- Artificial intelligence
+- Probabilistic programming
 
 ### Application:
 
 - Network neuroscience
 - Whole-brain connectomics
-- Computational neuropsychiatry
-- Normative brain connectivity
-- Behavior/age prediction models
 - High-resolution Connectomics
+- Normative brain connectivity
+- Brain-Behavior investigations
+- Computational neuropsychiatry
