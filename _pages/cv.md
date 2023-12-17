@@ -34,6 +34,7 @@ The CV is also available as a [📜 PDF doucument 📜](/files/sina_mansour_cv_r
 * 2015--2017: Full stack web developer; [Maktabkhooneh](http://maktabkhooneh.org/) (part time)
   
 ## Awards 🌟
+* 2023: Awarded the Runner-Up Open Science Trainee Prize from [the Neuro-Irv and Helga Cooper Foundation](https://www.mcgill.ca/neuro/open-science/open-science-awards-and-prizes/neuro-irv-and-helga-cooper-foundation-open-science-prizes).
 * 2022: Awarded the Best Student Paper Prize from the IEEE Victorian Section.
 * 2021: Awarded the best poster ECR award at Maths in the Brain 2021.
 * 2021: Awarded the Open Science fellowship from the OHBM Open Science Special Interest Group.
